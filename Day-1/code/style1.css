@@ -1,0 +1,91 @@
+/* first Card */
+
+.box{
+    border: 1px solid lightgray;
+    width: 300px;
+    border-radius: 14px;
+    padding: 10px;
+    margin: 50px auto;
+    font-family: sans-serif;
+}
+
+
+
+
+.card-img{
+    width: 100%;
+    border-radius: 14px;   
+}
+
+/* Second Card */
+.bg{
+    background: orangered;
+    border-radius: 16px;
+    font-family: sans-serif;
+    margin: 60px auto;
+    width: 670px;
+    color: white ;
+    padding: 120px 50px;
+
+}
+
+.btn{
+    border-radius: 40px;
+    padding: 16px 30px;
+    border: none;
+    background-color: white;
+    font-size: 16px;
+}
+
+/* Third Card */
+.logo{
+    height: 38px;
+    margin-bottom: 24px;
+}
+
+.login{
+    
+    width: 360px;
+    text-align: center;
+    margin: 120px auto;
+   
+}
+
+.input{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 14px;
+    box-sizing: border-box;
+    border: 1px solid lightgray;
+}
+
+.login-btn{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 16px;
+
+}
+
+/* Fourth Card */
+
+
+.card{
+    width:300px;
+    border: 1px solid lightgray;
+    border-radius:20px;
+    margin: 50px auto;
+}
+
+.card-img-1{
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.card-body{
+    padding: 8px;
+    font-family: sans-serif;
+}
